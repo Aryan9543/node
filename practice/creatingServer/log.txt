@@ -10,3 +10,13 @@
 1738063622422 : new request received
 1738069843622 : new request received
 1738069843723 : new request received
+1738252476165 :/ new request received
+1738252476246 :/favicon.ico new request received
+1738252483317 :/about new request received
+1738252483355 :/favicon.ico new request received
+1738252496645 :/something new request received
+1738252496677 :/favicon.ico new request received
+1738252500529 :/something new request received
+1738252500562 :/favicon.ico new request received
+1738252505205 :/ new request received
+1738252505241 :/favicon.ico new request received
